@@ -1,0 +1,56 @@
+@charset "UTF-8"
+
+* {
+    height: 100%;
+}
+body {
+    background-image:linear-gradient(to bottom, #2e2d2d,black 90%);
+    background-attachment: fixed;
+    
+       
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    font-size: 60px;
+    color: #c7c7c7;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.842);
+}
+header{
+    width: 100%;
+    text-align: center;
+    
+    
+    
+}
+input {
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px black;
+    background-color: #ffffffab;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    
+    
+    
+    
+
+}
+section {
+    background-color: rgb(231, 226, 226);
+    border-radius: 10px ;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.363);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: #5f9ea065;
+    
+}
